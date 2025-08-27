@@ -2,7 +2,7 @@
 Arduino nano rp2040 connect based drone-plane flight controller.
 
 - Uses wifi access point web server as remote control interface.
-- Quad copter drone-plane dc brushed motor transistor pwm pins: D3, D5, D6, D9.
+- Quad copter drone-plane brushed dc motor transistor pwm pins: D3, D5, D6, D9.
 
 ![arduinodroneplane6](https://raw.githubusercontent.com/goofyseeker311/arduinodroneplane/refs/heads/main/arduinodroneplane6.jpg)
 ![arduinodroneplane5](https://raw.githubusercontent.com/goofyseeker311/arduinodroneplane/refs/heads/main/arduinodroneplane5.jpg)
